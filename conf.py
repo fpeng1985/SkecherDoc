@@ -43,9 +43,9 @@ extensions = [
 	'sphinxcontrib.mermaid',
 ]
 
-mermaid_cmd = r'C:\Users\fpeng\Anaconda3\Lib\site-packages\sphinxcontrib\mermaid.py'
-mermaid_phantom_path = r"C:\Users\fpeng\AppData\Roaming\npm\node_modules\phantomjs\lib\phantom\bin\phantomjs.exe"
-mermaid_output_format = 'png'
+#mermaid_cmd = r'C:\Users\fpeng\Anaconda3\Lib\site-packages\sphinxcontrib\mermaid.py'
+#mermaid_phantom_path = r"C:\Users\fpeng\AppData\Roaming\npm\node_modules\phantomjs\lib\phantom\bin\phantomjs.exe"
+#mermaid_output_format = 'png'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
