@@ -40,7 +40,7 @@ release = '0.1.0'
 # ones.
 extensions = [
     'sphinx.ext.mathjax',
-	'sphinxcontrib.mermaid',
+	#'sphinxcontrib.mermaid',
 ]
 
 #mermaid_cmd = r'C:\Users\fpeng\Anaconda3\Lib\site-packages\sphinxcontrib\mermaid.py'
